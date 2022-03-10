@@ -1,0 +1,22 @@
+header {
+    font-family: 'Arsenal';
+}
+body{
+    background-color: #FFFAFA;
+}
+
+/* header */
+.jumbotron {
+    background: linear-gradient(rgba(0,0,0,.4), rgba(22, 22, 22, 0.7)), url("https://images.unsplash.com/photo-1544099858-75feeb57f01b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.jumbotron .fab{
+    color: white;
+    margin: auto 5px;
+    padding: 10px;
+    text-align: center;
+    width: 40px;
+    border-radius: 50%;
+}
